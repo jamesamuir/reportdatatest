@@ -24,3 +24,6 @@ c:\users\james_000\documents\visual studio 2013\Projects\ReportTest\ReportTest\b
 c:\users\james_000\documents\visual studio 2013\Projects\ReportTest\ReportTest\obj\Debug\ReportTest.csprojResolveAssemblyReference.cache
 c:\users\james_000\documents\visual studio 2013\Projects\ReportTest\ReportTest\obj\Debug\ReportTest.exe
 c:\users\james_000\documents\visual studio 2013\Projects\ReportTest\ReportTest\obj\Debug\ReportTest.pdb
+C:\Users\james_000\Documents\Visual Studio 2013\Projects\ReportDataTest\ReportTest\bin\Debug\ReportTest.exe.config
+C:\Users\james_000\Documents\Visual Studio 2013\Projects\ReportDataTest\ReportTest\obj\Debug\ReportTest.exe
+C:\Users\james_000\Documents\Visual Studio 2013\Projects\ReportDataTest\ReportTest\obj\Debug\ReportTest.pdb
